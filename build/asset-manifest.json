@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75591cf2.css",
+    "main.js": "/static/js/main.32ae5135.js",
+    "static/media/logo-rectagular.png": "/static/media/logo-rectagular.2a80a6c5578d15b67a74.png",
+    "index.html": "/index.html",
+    "main.75591cf2.css.map": "/static/css/main.75591cf2.css.map",
+    "main.32ae5135.js.map": "/static/js/main.32ae5135.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75591cf2.css",
+    "static/js/main.32ae5135.js"
+  ]
+}
