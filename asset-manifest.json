@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tarea/static/css/main.75591cf2.css",
-    "main.js": "/tarea/static/js/main.f2f009e7.js",
-    "static/media/logo-rectagular.png": "/tarea/static/media/logo-rectagular.2a80a6c5578d15b67a74.png",
-    "index.html": "/tarea/index.html",
-    "main.75591cf2.css.map": "/tarea/static/css/main.75591cf2.css.map",
-    "main.f2f009e7.js.map": "/tarea/static/js/main.f2f009e7.js.map"
+    "main.css": "/static/css/main.75591cf2.css",
+    "main.js": "/static/js/main.32ae5135.js",
+    "static/media/logo-rectagular.png": "/static/media/logo-rectagular.2a80a6c5578d15b67a74.png",
+    "index.html": "/index.html",
+    "main.75591cf2.css.map": "/static/css/main.75591cf2.css.map",
+    "main.32ae5135.js.map": "/static/js/main.32ae5135.js.map"
   },
   "entrypoints": [
     "static/css/main.75591cf2.css",
-    "static/js/main.f2f009e7.js"
+    "static/js/main.32ae5135.js"
   ]
 }
