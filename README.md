@@ -13,6 +13,6 @@ con deploy lo desplegamos en githunb.
 
 - "homepage": "https://nearuser.github.io/tarea",
 
-<agregar estas dos ultimas a la seccion script de package.json>
+agregar estas dos ultimas a la seccion script de package.json
 - "predeploy": "npm run build"
 - "deploy": "gh-pages -d build"
